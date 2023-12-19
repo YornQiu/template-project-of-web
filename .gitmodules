@@ -1,0 +1,12 @@
+[submodule "vue3-ts-template"]
+	path = vue3-ts-template
+	url = git@github.com:YornQiu/vue3-ts-template.git
+[submodule "vue3-template"]
+	path = vue3-template
+	url = git@github.com:YornQiu/vue3-template.git
+[submodule "vue-template"]
+	path = vue-template
+	url = git@github.com:YornQiu/vue-template.git
+[submodule "react-template"]
+	path = react-template
+	url = git@github.com:YornQiu/react-template.git
